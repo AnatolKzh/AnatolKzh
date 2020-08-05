@@ -2,7 +2,7 @@
 
 ## I'm novice software developer
 - Student
-- Love to be involed into a programming process
+- Love to be involved into a programming process
 - I'm always looking to learn something new
 - I like to share knowledge and help other
 ### Connect with me:
