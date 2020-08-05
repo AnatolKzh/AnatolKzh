@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Anatole👋
 
-<!--
-**Anatol-e/Anatol-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm novice software developer
+- Student
+- Love to be involed into a programming process
+- I'm always looking to learn something new
+- I like to share knowledge and help other
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-telegram-1.png" />][telegram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
