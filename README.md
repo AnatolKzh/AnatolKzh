@@ -1,6 +1,6 @@
 ### Hi there, I'm Anatole👋
 
-## I'm novice software developer
+## I'm newborn software developer :)
 - Student
 - Love to be involved into a programming process
 - I'm always looking to learn something new
