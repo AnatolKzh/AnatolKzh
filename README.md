@@ -5,14 +5,9 @@
 - Love to be involved into a programming process
 - I'm always looking to learn something new
 - I like to share knowledge and help other
-### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 <br/>
-
-[linkedin]: https://www.linkedin.com/in/anatol-kozhukhar/
 
 ### Languages and Tools:
 
@@ -29,3 +24,12 @@
 <img align="left" alt="Oracle" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd9IiexuLoBL9GwJqAAJzxYBQk647VMAjaAYQm7l2oJd4WsmpQ5ZQP5C8JEThDiJcWWTV8ZcH8V46GWF74F-CnDw&usqp=CAU&ec=45688576" />
 <img align="left" alt="Postgres" width="26px" src="https://commons.bmstu.wiki/images/b/b5/Postgresql.png" />
 <img align="left" alt="MsServer" width="26px" src="https://freehelp24.ru/wp-content/uploads/2017/06/sqllogo.png" />
+
+<br/>
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/anatol-kozhukhar/
