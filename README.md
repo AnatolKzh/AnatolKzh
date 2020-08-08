@@ -3,8 +3,8 @@
 ## I'm newborn software developer :)
 - Student
 - Love to be involved into a programming process
-- I'm always looking to learn something new
-- I like to share knowledge and help other
+- I'm always looking for getting something new
+- I like to share knowledges and help others
 
 ### Languages and Tools:
 
