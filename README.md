@@ -19,7 +19,6 @@
 <img align="left" alt="VSCode" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0UpAYSPZn_TjpNbaGOYV6y6k3mf2junga27rpiBnWMR5Jz66g60Mum6xvid2M2z5Fv2sqdTZwaaRXgVYgckXFLQ&usqp=CAU&ec=45688576" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Oracle" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd9IiexuLoBL9GwJqAAJzxYBQk647VMAjaAYQm7l2oJd4WsmpQ5ZQP5C8JEThDiJcWWTV8ZcH8V46GWF74F-CnDw&usqp=CAU&ec=45688576" />
-<img align="left" alt="Postgres" width="26px" src="https://commons.bmstu.wiki/images/b/b5/Postgresql.png" />
 <img align="left" alt="MsServer" width="26px" src="https://freehelp24.ru/wp-content/uploads/2017/06/sqllogo.png" />
 
 <br/>
