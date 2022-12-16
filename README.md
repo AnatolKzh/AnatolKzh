@@ -1,4 +1,4 @@
-### Hi there, I'm Anatole👋
+### Hi there, I'm Anatol👋
 
 ## I'm software developer :)
 - Love to be involved into a programming process
